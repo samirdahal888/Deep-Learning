@@ -5,13 +5,13 @@ Here you will see how the things get change how ml algorithims are then and how 
 
 # [ Deep Learning and neural networks](https://github.com/samirdahal888/Deep-Learning/tree/main/History)  
  This  covers
-  Understanding perceptrons and multilayer 
-perceptrons
-  Working with the different types of activation 
-functions
-  Training networks with feedforward, error 
-functions, and error optimization
-  Performing backpropagation
+ 1. ## Understanding perceptrons and multilayer 
+perceptrons  
+ 2. ## Working with the different types of activation 
+functions  
+ 3. ## Training networks with feedforward, error 
+functions, and error optimization  
+ 4. ## Performing backpropagation
 
 
 
