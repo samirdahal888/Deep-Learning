@@ -3,7 +3,7 @@ jan17 2025
 # [🛺 History](https://github.com/samirdahal888/Deep-Learning/tree/main/History)  
 Here you will see how the things get change how ml algorithims are then and how this deep learning neural network concept came in exit  
 
-# [ Deep Learning and neural networks]([https://github.com/samirdahal888/Deep-Learning/tree/main/History](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks)  
+# [ Deep Learning and neural networks](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks)  
  ## This  covers
  1.  ### Understanding perceptrons and multilayer perceptrons  
 
