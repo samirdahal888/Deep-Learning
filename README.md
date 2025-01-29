@@ -8,11 +8,11 @@ Here you will see how the things get change how ml algorithims are then and how 
    ## [1.Understanding perceptrons and multilayer perceptrons](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons)
 
 
- ### [Understanding perceptrons and multilayer perceptrons](https://github.com/samirdahal888/Deep-Learning/blob/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/Understanding%20perceptrons%20and%20multilayer%20%20perceptrons.pdf):This is a pdf that helps to get the knowledge out this topics
+ ### [a.Understanding perceptrons and multilayer perceptrons](https://github.com/samirdahal888/Deep-Learning/blob/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/Understanding%20perceptrons%20and%20multilayer%20%20perceptrons.pdf):This is a pdf that helps to get the knowledge out this topics
    
-  ### [coding practice](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/coding%20practice)   
+  ### [b.coding practice](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/coding%20practice)   
    
-  #### [Xor problem](https://github.com/samirdahal888/Deep-Learning/blob/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/coding%20practice/Xor%20problem.ipynb)  
+   ####   [  Xor problem](https://github.com/samirdahal888/Deep-Learning/blob/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/coding%20practice/Xor%20problem.ipynb)  :xor problem that shows the limitation of single percertron,and use of multilayer perceptron
   
           
 
