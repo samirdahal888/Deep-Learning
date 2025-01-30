@@ -70,50 +70,47 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 ---
 
 
+# 📌 Deep Learning Roadmap
 
-# 🧾 History: Evolution of Machine Learning & Deep Learning
-
-This section explores the **evolution of ML algorithms** and how **deep learning neural networks** emerged as a breakthrough in artificial intelligence.
-
----
-
-## 📖 Chapter 2: Deep Learning & Neural Networks
-
-### 🔹 Topics Covered:
-
-1️⃣ **Understanding Perceptrons & Multilayer Perceptrons (MLPs)**  
-   - 📜 **Course PDF**: Detailed guide on perceptrons and MLPs  
-   - 🖥 **Coding Practice**  
-     - 🟢 **XOR Problem**: Demonstrates the **limitation of single-layer perceptrons**  
-
-2️⃣ **Exploring Different Activation Functions**  
-   - Understand the role of **activation functions** in neural networks  
-
-3️⃣ **Training Neural Networks**  
-   - Feedforward process  
-   - Error functions & optimization techniques  
-
-4️⃣ **Performing Backpropagation**  
-   - Understanding how gradients are propagated backward to optimize weights  
+## 🧾 [History](https://github.com/samirdahal888/Deep-Learning/tree/main/History)  
+Explore the evolution of **machine learning (ML) algorithms**, how they have transformed over time, and how **deep learning neural networks** emerged.
 
 ---
 
-## 📖 Chapter 3: Convolutional Neural Networks (CNNs)
+# 📖 Chapter 2: Deep Learning & Neural Networks  
+🔗 **[View Chapter](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks)**  
 
-### 🔹 Topics Covered:
+### 📌 Topics Covered:  
 
-1️⃣ **Classifying Images Using MLP**  
-   - Applying a **basic neural network (MLP)** for image classification  
-   - Understanding its **limitations** in image processing  
+### 1️⃣ [Understanding Perceptrons & Multilayer Perceptrons (MLPs)](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons)  
+   - 📜 **[Course PDF](https://github.com/samirdahal888/Deep-Learning/blob/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/Understanding%20perceptrons%20and%20multilayer%20%20perceptrons.pdf)** – In-depth explanation of perceptrons and MLPs.  
+   - 💻 **[Coding Practice](https://github.com/samirdahal888/Deep-Learning/tree/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/coding%20practice)**  
+     - 🔹 **[XOR Problem](https://github.com/samirdahal888/Deep-Learning/blob/main/Deep%20learning%20%20and%20neural%20networks/%20Understanding%20perceptrons%20and%20multilayer%20%20perceptrons/coding%20practice/Xor%20problem.ipynb)** – Demonstrating the **limitations of single-layer perceptrons**.  
 
-2️⃣ **Working with CNN Architecture**  
-   - Learning about **convolutional layers, pooling layers, and fully connected layers**  
+### 2️⃣ Working with Different Types of Activation Functions  
+
+### 3️⃣ Training Networks with Feedforward, Error Functions & Optimization  
+
+### 4️⃣ Performing Backpropagation  
+
+---
+
+# 📖 Chapter 3: Convolutional Neural Networks (CNNs)  
+🔗 **[View Chapter](#)**  
+
+### 📌 Topics Covered:  
+
+### 1️⃣ [Classifying Images Using MLP](#)  
+   - Understanding how **MLPs process image data**  
+   - Exploring **MLP limitations in image classification**  
+
+### 2️⃣ [Working with CNN Architecture to Classify Images](#)  
+   - Understanding **Convolutional Layers, Pooling Layers, and Fully Connected Layers**  
    - Implementing **CNNs for image classification**  
 
-3️⃣ **Understanding Convolution on Color Images**  
-   - How CNNs process **RGB images vs. grayscale images**  
+### 3️⃣ [Understanding Convolution on Color Images](#)  
+   - Differences between **RGB and Grayscale image processing**  
 
 ---
 
-
-
+ 
