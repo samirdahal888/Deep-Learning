@@ -46,7 +46,7 @@ Explore the evolution of **machine learning (ML) algorithms**, how they have tra
 
 # 📌 Introduction to Convolutional Neural Networks (CNNs)
 
-## 📝 Overview
+## 📝 Overview of chapter 3
 Convolutional Neural Networks (CNNs) are a specialized type of **artificial neural network (ANNs)** designed for **image processing**. Unlike traditional **Multilayer Perceptrons (MLPs)**, CNNs efficiently capture **spatial hierarchies** in images using **convolutional layers, pooling layers, and fully connected layers**.
 
 ---
@@ -85,6 +85,7 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 | **Hyperparameters**  | Optimizer, Loss, Activation | Same + CNN-specific parameters |
 | **Training**        | Forward pass → Loss → Backpropagation | Same process |
 
+---
 ---
 
 
