@@ -19,11 +19,11 @@ Here you will see how the things get change how ml algorithims are then and how 
  ## 3. Training networks with feedforward, error functions, and error optimization    
  ## 4. Performing backpropagation    
 
- # [Chapter:3 Convolutional neural networks]  
+ # [Chapter:3 Convolutional neural networks]() 
   ## This chapter covers  
- ### [1. Classifying images using MLP]  
- ### [2. Working with the CNN architecture to classify images]  
- ### [3.Understanding convolution on color images]  
+ ### [1. Classifying images using MLP]() 
+ ### [2. Working with the CNN architecture to classify images]()  
+ ### [3.Understanding convolution on color images]() 
 
 
 
