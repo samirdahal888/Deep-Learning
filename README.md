@@ -71,3 +71,49 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 
 
 
+# 🧾 History: Evolution of Machine Learning & Deep Learning
+
+This section explores the **evolution of ML algorithms** and how **deep learning neural networks** emerged as a breakthrough in artificial intelligence.
+
+---
+
+## 📖 Chapter 2: Deep Learning & Neural Networks
+
+### 🔹 Topics Covered:
+
+1️⃣ **Understanding Perceptrons & Multilayer Perceptrons (MLPs)**  
+   - 📜 **Course PDF**: Detailed guide on perceptrons and MLPs  
+   - 🖥 **Coding Practice**  
+     - 🟢 **XOR Problem**: Demonstrates the **limitation of single-layer perceptrons**  
+
+2️⃣ **Exploring Different Activation Functions**  
+   - Understand the role of **activation functions** in neural networks  
+
+3️⃣ **Training Neural Networks**  
+   - Feedforward process  
+   - Error functions & optimization techniques  
+
+4️⃣ **Performing Backpropagation**  
+   - Understanding how gradients are propagated backward to optimize weights  
+
+---
+
+## 📖 Chapter 3: Convolutional Neural Networks (CNNs)
+
+### 🔹 Topics Covered:
+
+1️⃣ **Classifying Images Using MLP**  
+   - Applying a **basic neural network (MLP)** for image classification  
+   - Understanding its **limitations** in image processing  
+
+2️⃣ **Working with CNN Architecture**  
+   - Learning about **convolutional layers, pooling layers, and fully connected layers**  
+   - Implementing **CNNs for image classification**  
+
+3️⃣ **Understanding Convolution on Color Images**  
+   - How CNNs process **RGB images vs. grayscale images**  
+
+---
+
+
+
