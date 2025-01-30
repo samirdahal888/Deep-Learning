@@ -26,30 +26,55 @@ Here you will see how the things get change how ml algorithims are then and how 
  ### [3.Understanding convolution on color images]() 
 
 
-📝 Overview
-Convolutional Neural Networks (CNNs) are a specialized type of artificial neural network (ANNs) designed for image processing. Unlike traditional Multilayer Perceptrons (MLPs), CNNs efficiently capture spatial hierarchies in images using convolutional layers, pooling layers, and fully connected layers.
+# 📌 Introduction to Convolutional Neural Networks (CNNs)
 
-📖 Chapter Roadmap
-📌 1. Image Classification with MLP
-Implement an MLP-based image classifier.
-Identify MLP’s limitations in handling images.
-Understand why CNNs are needed for computer vision tasks.
-📌 2. Understanding CNNs
-Learn how CNNs extract features from images.
-Explore CNN’s three key components:
-Convolutional Layers → Feature extraction
-Pooling Layers → Dimensionality reduction
-Fully Connected Layers → Final classification
-Build a mini CNN-based image classifier.
-📌 3. Color Images vs. Grayscale
-Understand how computers process color images.
-Learn about convolution operations over multiple channels.
-📌 4. End-to-End Image Classification Project
-Apply all concepts to a full-scale project.
-Train a CNN model for color image classification.
-🔍 MLP vs. CNN: Key Differences
-Feature	MLP (ANNs)	CNNs
-Architecture	Fully connected layers	Convolutional + Pooling layers
-Weights & Biases	Vector-based	Uses filters/kernels
-Hyperparameters	Optimizer, Loss, Activation	Same + CNN-specific parameters
-Training	Forward pass → Loss → Backpropagation	Same process
+## 📝 Overview
+Convolutional Neural Networks (CNNs) are a specialized type of **artificial neural network (ANNs)** designed for **image processing**. Unlike traditional **Multilayer Perceptrons (MLPs)**, CNNs efficiently capture **spatial hierarchies** in images using **convolutional layers, pooling layers, and fully connected layers**.
+
+---
+
+## 📖 Chapter Roadmap
+
+### 📌 1. Image Classification with MLP
+- Implement an **MLP-based image classifier**.
+- Identify **MLP’s limitations** in handling images.
+- Understand why CNNs are needed for **computer vision tasks**.
+
+### 📌 2. Understanding CNNs
+- Learn how CNNs **extract features** from images.
+- Explore **CNN’s three key components**:
+  - **Convolutional Layers** → Feature extraction
+  - **Pooling Layers** → Dimensionality reduction
+  - **Fully Connected Layers** → Final classification
+- Build a **mini CNN-based image classifier**.
+
+### 📌 3. Color Images vs. Grayscale
+- Understand how **computers process color images**.
+- Learn about **convolution operations over multiple channels**.
+
+### 📌 4. End-to-End Image Classification Project
+- Apply all concepts to a **full-scale project**.
+- Train a CNN model for **color image classification**.
+
+---
+
+## 🔍 MLP vs. CNN: Key Differences
+
+| Feature              | **MLP (ANNs)**          | **CNNs**                  |
+|----------------------|------------------------|---------------------------|
+| **Architecture**     | Fully connected layers | Convolutional + Pooling layers |
+| **Weights & Biases** | Vector-based           | Uses **filters/kernels**  |
+| **Hyperparameters**  | Optimizer, Loss, Activation | Same + CNN-specific parameters |
+| **Training**        | Forward pass → Loss → Backpropagation | Same process |
+
+---
+
+## 🚀 Key Takeaways
+✅ **CNNs outperform MLPs** for image classification tasks.  
+✅ CNNs use **convolutional filters** to detect patterns and spatial features.  
+✅ The learning process (forward pass, loss calculation, backpropagation) **remains the same** as in MLPs.
+
+---
+
+## 📂 Project Structure
+
