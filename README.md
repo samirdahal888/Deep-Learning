@@ -69,12 +69,5 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 
 ---
 
-## 🚀 Key Takeaways
-✅ **CNNs outperform MLPs** for image classification tasks.  
-✅ CNNs use **convolutional filters** to detect patterns and spatial features.  
-✅ The learning process (forward pass, loss calculation, backpropagation) **remains the same** as in MLPs.
 
----
-
-## 📂 Project Structure
 
