@@ -30,7 +30,7 @@ Explore the evolution of **machine learning (ML) algorithms**, how they have tra
 
 ### 📌 Topics Covered:  
 
-### 1️⃣ [Classifying Images Using MLP](https://github.com/samirdahal888/Deep-Learning/tree/main/Convolutional%20neural%20networks) 
+### 1️⃣ [Classifying Images Using MLP]([https://github.com/samirdahal888/Deep-Learning/tree/main/Convolutional%20neural%20networks](https://github.com/samirdahal888/Deep-Learning/tree/main/Convolutional%20neural%20networks/%20Classifying_Images_Using_MLP)) 
    - Understanding how **MLPs process image data**  
    - Exploring **MLP limitations in image classification**  
 
