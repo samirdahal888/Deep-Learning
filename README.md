@@ -35,7 +35,9 @@ Explore the evolution of **machine learning (ML) algorithms**, how they have tra
    - Exploring **MLP limitations in image classification**  
 
 ### 2️⃣ [Working with CNN Architecture to Classify Images](https://github.com/samirdahal888/Deep-Learning/tree/main/Convolutional%20neural%20networks/%20Working%20with%20CNN%20Architecture%20to%20Classify%20Images) 
+   ### Files for reading
 #### - [CNN artitecture](https://docs.google.com/document/d/1d2-ZRboACga_mpcCkZjuAaRyANUyaJf0cPXVaLX5Bys/edit?usp=sharing)
+#### - [Strides and padding](https://docs.google.com/document/d/18fPzCRTfJ-MIwFQrbE8S2-wZSx8wOzp6GzN6-rib-kc/edit?tab=t.0)
    - Understanding **Convolutional Layers, Pooling Layers, and Fully Connected Layers**  
    - Implementing **CNNs for image classification**  
 
