@@ -39,6 +39,7 @@ Explore the evolution of **machine learning (ML) algorithms**, how they have tra
 #### - [Strides and padding](https://docs.google.com/document/d/18fPzCRTfJ-MIwFQrbE8S2-wZSx8wOzp6GzN6-rib-kc/edit?tab=t.0)
 #### - [Pooling layer or Subsampling](https://docs.google.com/document/d/19QjOre42a-kO6qZDNppE4XuFsdRO3uPF6IwRYVUyFpI/edit?tab=t.0#heading=h.kkhk1enabcsz)
 #### -[Fully connected(FC) layer](https://docs.google.com/document/d/1iTp62yNelF8aKbzppjVEzNt7-1m8qU7xxyBe6j9A8E4/edit?usp=sharing)
+#### - [Avoid overfitting](https://docs.google.com/document/d/1gIlvl-I4l9GxyYqMDrsNJ7f3CGBSxvocKsG-xV4b9yE/edit?usp=sharing)
 **project**  
    #### - [mnist_cnn](https://colab.research.google.com/drive/1ijyS122nkBexcMMfUAyqQPGuOf5I5oT0?usp=sharing)
 
