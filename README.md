@@ -48,6 +48,7 @@ Explore the evolution of **machine learning (ML) algorithms**, how they have tra
    - Implementing **CNNs for image classification**  
 
 ### 3️⃣ [Understanding Convolution on Color Images](#)  
+#### - [Convolution over color image](https://docs.google.com/document/d/1mCdtIKcq-m0J8pPocRx5TNqH35tuOaQGX_7D7W5wVj8/edit?usp=sharing)
    - Differences between **RGB and Grayscale image processing**  
 
 --- 
