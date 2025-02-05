@@ -49,6 +49,8 @@ Explore the evolution of **machine learning (ML) algorithms**, how they have tra
 
 ### 3️⃣ [Understanding Convolution on Color Images](#)  
 #### - [Convolution over color image](https://docs.google.com/document/d/1mCdtIKcq-m0J8pPocRx5TNqH35tuOaQGX_7D7W5wVj8/edit?usp=sharing)
+### projects
+#### - [cifar10 cnn](https://colab.research.google.com/drive/12n3rKVSh9ozMmjyuJjcUuC0Wp2ip_cCW?usp=sharing)
    - Differences between **RGB and Grayscale image processing**  
 
 --- 
