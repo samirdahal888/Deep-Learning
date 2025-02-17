@@ -102,6 +102,7 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 # Chapter 4 : Structuring DL projects and hyperparameter tuning
 #### -[chapter 4 intro](https://docs.google.com/document/d/1c2-i-AZoDyV3RcUcbtcWNcZueQLp5M99KvPur0s9EmY/edit?usp=sharing)
 #### -[Defining performance metrix](https://docs.google.com/document/d/1SZUNDiTs1PNqNXMPRTt-8tiwKFT4FyJXUiuhoeUqlRg/edit?tab=t.0)
+#### - [Baseline model](https://docs.google.com/document/d/1iht4NdXDaSw-TvrECa9dIp5pjpiOkog-hhJDLCYi-fE/edit?tab=t.0#heading=h.xdwvjjphvdq)
 
 ---
 ---
