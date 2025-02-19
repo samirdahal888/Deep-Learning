@@ -107,6 +107,9 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 #### -[Evaluating the model and interpreting its performance](https://docs.google.com/document/d/1Ur0PqiZo2pdbncTf1XuEo7v6aYwki9Fk-ZZPPCHXJOk/edit?tab=t.0#heading=h.gtm6hr9e9o1n)
 #### - [parameter vs hyperparameter](https://docs.google.com/document/d/1b3is_tkqBxIh_-59UtI3LzCl0Ri_CYoS72SGtdjXODc/edit?tab=t.0)
 #### - [Batchnormalization](https://docs.google.com/document/d/14Cqd5WWbVS9JPvfteR8Aj-saysgnjqRjKPwKLUZl6Ws/edit?tab=t.0#heading=h.rf0o3ey0xxaa)
+
+### projects
+#### - [improved cifar10(correction required)](https://colab.research.google.com/drive/1qVX1LaO5HlVWASAmcMgN8h5Ayl98FWmm#scrollTo=3xz3cnMstHme)
 ---
 ---
 
