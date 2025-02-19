@@ -112,6 +112,9 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 #### - [improved cifar10(correction required)](https://colab.research.google.com/drive/1qVX1LaO5HlVWASAmcMgN8h5Ayl98FWmm#scrollTo=3xz3cnMstHme)
 ---
 ---
+# Part 2: Image clasification and Detection
+## Advance CNN artitecture
+#### - [overview and common patten in CNN artitecture](https://docs.google.com/document/d/1Ft2wz4BW5d8bsRmyyiYALdNLuoCSKsqnse1bSEDZPjY/edit?tab=t.0#heading=h.b5l7chxnu165)
 
 
 
