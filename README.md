@@ -117,7 +117,7 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 #### - [overview and common patten in CNN artitecture](https://docs.google.com/document/d/1Ft2wz4BW5d8bsRmyyiYALdNLuoCSKsqnse1bSEDZPjY/edit?tab=t.0#heading=h.b5l7chxnu165)
 #### - [LeNet5](https://docs.google.com/document/d/1jaB7gZ7LDzxj5IF4XD1YuuEY0Ja6kfDn1Pnf2y6TMsk/edit?tab=t.0#heading=h.hba7shei4c69)
 #### - [AlxeNet](https://docs.google.com/document/d/1df0uYeYQIJiwaS4qzAq4IWj87feeSUZLxJCT7zyG7mg/edit?tab=t.0)
-
+#### - [VGGNet](https://docs.google.com/document/d/1QXFwZP7lqeGkUoZ_r-0qFAbYQWn3KYvRtKS3pkr6xfQ/edit?tab=t.0)
 
 
 
