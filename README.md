@@ -121,6 +121,9 @@ Convolutional Neural Networks (CNNs) are a specialized type of **artificial neur
 #### -[Inception,GoogleLeNe(revisit needed)](https://docs.google.com/document/d/1Ga6dSkFP0ZlN44Zj_yiJFcUFk1nsTjudy9unC_wKlxg/edit?tab=t.0#heading=h.ynogoqasmu5o)
 #### -[ResNet(revisited needed)](https://docs.google.com/document/d/1zxB1-cKNPLnu4bHFvkg14aWXz5Ve7ZMQw9O_q5utxwg/edit?tab=t.0)
 
+___
+## Transfer Learning
+
 
 
  
