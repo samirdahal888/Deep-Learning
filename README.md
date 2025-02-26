@@ -128,6 +128,10 @@ ___
 #### - [open source dataset](https://docs.google.com/document/d/1VZTaD2LCVjQA1IWYGRYmPrHnzU0VS-PeTcR99ly40Jk/edit?tab=t.0)
 #### - [project 1](https://docs.google.com/document/d/19tw4c6EUPyk5jl01DwntKM1GMnh_h3i5gq6MIOI09bU/edit?tab=t.0)
 
+---
+## Object detection with R-CNN, SSD, and YOLO
+#### - [introduction](https://docs.google.com/document/d/1N78mQEajuRUPq6g1Yeo_Ra5NUeTtLJl2havIa8Ci_10/edit?tab=t.0)
+
 
 
  
