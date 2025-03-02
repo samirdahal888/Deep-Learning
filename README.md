@@ -131,6 +131,9 @@ ___
 ---
 ## Object detection with R-CNN, SSD, and YOLO
 #### - [introduction](https://docs.google.com/document/d/1N78mQEajuRUPq6g1Yeo_Ra5NUeTtLJl2havIa8Ci_10/edit?tab=t.0)
+#### - [RCNN](https://docs.google.com/document/d/10XTQIrYylQJyLLObDtJHGHDyw4EFAihQs8UY3lymMlk/edit?tab=t.0#heading=h.brd8y0iw4tn0)
+#### -[SDD](https://docs.google.com/document/d/1Tij3K5EVeawkFUMjyeC2retEXg1ISXTsjxg5zMv6bzU/edit?tab=t.0)
+#### - [YOLO](https://docs.google.com/document/d/1Zpaeeq3WfTjMaf8lWga53_z_JNeYuzgZOXGta1vgTtc/edit?tab=t.0#heading=h.f3uste8vmjxm)
 
 
 
