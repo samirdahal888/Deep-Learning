@@ -135,6 +135,16 @@ ___
 #### -[SDD](https://docs.google.com/document/d/1Tij3K5EVeawkFUMjyeC2retEXg1ISXTsjxg5zMv6bzU/edit?tab=t.0)
 #### - [YOLO](https://docs.google.com/document/d/1Zpaeeq3WfTjMaf8lWga53_z_JNeYuzgZOXGta1vgTtc/edit?tab=t.0#heading=h.f3uste8vmjxm)
 
+---
+## Generative adversarial networks (GANs)
+#### - [Notes on GAN](https://docs.google.com/document/d/1V9dwwR-dRZnmL_0GSrqRA5HrvIzbB1MVOQjLTtn-5KE/edit?tab=t.0#heading=h.fuvjmuk0clse)
+---
+## DeepDream
+#### -[Notes on DeepDream](https://docs.google.com/document/d/1SFx9XLCpmb_B2L4XUzKbbBPFTrOMOHmod9z3nOKeNPg/edit?tab=t.0)
+---
+## Visual Embanding
+#### -[what is visual Embading](https://docs.google.com/document/d/1r_k0UxYrCIN4OlXwi-jqv8c1oP2B-SEDV6B3PkDP6iw/edit?tab=t.0#heading=h.lwa1ctwjtagf)
+#### - [more on ](https://docs.google.com/document/d/11hvSjP8p7JS7SSHcb-NpdU0WHXECG3ot0sKGYBil-IQ/edit?tab=t.0)
 
 
  
